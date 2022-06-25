@@ -12,13 +12,20 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [{ src: 'js/common.js', type: 'text/javascript' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['~assets/scss/common.scss'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [{ src: 'plugins/lax.js', ssr: false }],
+  plugins: [
+    { src: 'plugins/lax.js', ssr: false },
+    {
+      src: '~plugins/vue-scrollmagic.js',
+      ssr: false,
+    },
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -44,8 +51,14 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    vendor: ['external_library'],
+  },
   styleResources: {
     scss: [],
+  },
+
+  gsap: {
+    /* Module Options */
   },
 }

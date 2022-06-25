@@ -1,353 +1,144 @@
 <template>
-  <div class="images__scroll-wrapper">
-    <div class="main_sticky">
-      <div class="bone">
-        <div class="main_crocs images__scroll">
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/0.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/1.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/2.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/3.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/4.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/5.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/6.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/7.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/8.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/9.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/10.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/11.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/12.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/13.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/14.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/15.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/16.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/17.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/18.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/19.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/20.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/21.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/22.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/23.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/24.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/25.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/26.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/27.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/28.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/29.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/30.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/31.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/32.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/33.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/34.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/35.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/36.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/37.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/38.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/39.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/40.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/41.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/42.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/43.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/44.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/45.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/46.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/47.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/48.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/49.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/50.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/51.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/52.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/53.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/54.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/55.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/56.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/57.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/58.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/59.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/60.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/61.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/62.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/63.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/64.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/65.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/66.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/67.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/68.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/69.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/70.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/71.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/72.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/73.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/74.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/75.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/76.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/77.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/78.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/79.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/80.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/81.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/82.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/83.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/84.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/85.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/86.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/87.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/88.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/89.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/90.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/91.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/92.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/93.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/94.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/95.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/96.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/97.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/98.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/99.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/100.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/101.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/102.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/103.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/104.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/105.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/106.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/107.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/108.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/109.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/110.png" />
-          </picture>
-          <picture>
-            <img width="1" height="1" src="~/assets/images/hero/111.png" />
-          </picture>
-        </div>
-        <div class="main_net flex"></div>
-      </div>
+  <div>
+    <div class="blank" />
+    <div class="wrapper">
+      <div class="img1" />
+      <h2 class="title1">Lorem ipsum<br /><span>Dolor sit amet</span></h2>
+      <div class="img2" />
+      <h2 class="title2">Lorem ipsum<br /><span>Dolor sit amet</span></h2>
     </div>
+    <div class="blank" />
   </div>
 </template>
 
 <script>
+import { gsap } from 'gsap'
 export default {
   name: 'IndexPage',
+  data() {
+    return {}
+  },
+  mounted() {
+    this.startAnimation()
+  },
+  methods: {
+    startAnimation() {
+      const tl = gsap.timeline({ onUpdate: updatePercentage })
+
+      tl.to('.img1', 1, { width: '100%', height: '100%' }, 0)
+      tl.to('.title1', 0.5, { opacity: 1 }, 1)
+      tl.to('.title1', 0.5, { opacity: 0 }, 2)
+      tl.to('.img2', 1, { height: '100%' }, 2)
+      tl.from('.title2', 1, { opacity: 0 }, 2.2)
+      tl.to('.img1', 0, { opacity: 0 }, 3)
+      tl.to(
+        '.img1',
+        1,
+        { width: '60%', height: '60%', transform: 'translate(-30%, -30%)' },
+        3
+      )
+      tl.to('.title2', 1, { opacity: 0 }, 3)
+
+      const scene = this.$scrollmagic
+        .scene({
+          triggerElement: '.wrapper',
+          triggerHook: 0,
+          duration: '300%',
+        })
+        .setPin('.wrapper')
+        .setTween(tl)
+
+      this.$scrollmagic.addScene(scene)
+
+      function updatePercentage() {
+        tl.progress()
+      }
+    },
+  },
 }
 </script>
+<style scoped lang="scss">
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  color: black;
+  font-size: 16px;
+}
+
+.blank {
+  width: 100%;
+  height: 100vh;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.img1 {
+  background-image: url('../assets/images/main/screen_xdr.jpeg');
+  width: 70%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.title1 {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  font-size: 32px;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  span {
+    font-size: 24px;
+    font-weight: 400;
+    display: block;
+  }
+}
+
+.img2 {
+  background-image: url('../assets/images/main/processing_endframe.jpeg');
+  width: 100%;
+  height: 0;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+
+.title2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 80px;
+  transform: translate(-50%, -50%);
+  transform-origin: center center;
+  text-align: center;
+  line-height: 80px;
+}
+</style>
