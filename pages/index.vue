@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="main">
     <div class="blank" />
     <div class="wrapper">
       <div class="img1" />
