@@ -23,7 +23,7 @@ export default {
   },
   methods: {
     startAnimation() {
-      const tl = gsap.timeline({ onUpdate: updatePercentage })
+      const tl = new TimelineMax({ onUpdate: updatePercentage })
 
       tl.to('.img1', 1, { width: '100%', height: '100%' }, 0)
       tl.to('.title1', 0.5, { opacity: 1 }, 1)

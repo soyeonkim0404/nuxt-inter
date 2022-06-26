@@ -20,7 +20,6 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: 'plugins/lax.js', ssr: false },
     {
       src: '~plugins/vue-scrollmagic.js',
       ssr: false,
@@ -61,4 +60,7 @@ export default {
   gsap: {
     /* Module Options */
   },
+
+  /*eslint false*/
+  lintOnSave: false,
 }
